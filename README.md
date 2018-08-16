@@ -1,2 +1,1 @@
-# Microsoft-Power-BI-Projects
-Microsoft Power BI Projects, Packt publishing
+# The code for this repository is under development :construction_worker:
